@@ -1,0 +1,1 @@
+# hot_encoding_technique_1
