@@ -1,3 +1,3 @@
-# hot_encoding_technique_1
+# hot_encoding_techniques 
 one of the way to handle categorical features in dataset 
 # count or frequency encoding technique.
